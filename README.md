@@ -1,3 +1,3 @@
-# Media_Player
+# Music_Player
  
-A simple media player app using Android Studios.
+A simple music player app using Android Studios, Where we can listen music from our Phone storage.
